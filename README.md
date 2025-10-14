@@ -8,3 +8,7 @@
 ![SpaceGame](https://github.com/Eggz-csm/Portfolio/blob/main/images/spacegame.png?raw=true)
 
 Description
+
+*[Windows EXE]()
+*[Mac App]()
+*[Linux Executable]()
