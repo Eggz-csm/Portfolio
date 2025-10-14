@@ -10,7 +10,7 @@
 Description
 
 ##### Downloads
-* [Windows EXE]()
+* [Windows EXE](https://github.com/Eggz-csm/Portfolio/blob/main/src/SpaceGame/windows-amd64.zip)
 * [Mac App]()
 * [Linux Executable]()
 * [Source Code]()
