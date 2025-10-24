@@ -5,7 +5,7 @@
 
 ### SpaceGame Project - 10/21/2025
 
-![AstroShot!](https://github.com/Eggz-csm/Portfolio/blob/main/images/spacegame.png?raw=true)
+![AstroShot!](https://github.com/Eggz-csm/Portfolio/blob/main/images/Astroshot.PNG)
 
 Description
 
