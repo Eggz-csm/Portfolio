@@ -5,7 +5,7 @@
 
 ### "AstroShot!" - SpaceGame Project - 10/21/2025
 
-![AstroShot!](https://github.com/Eggz-csm/Portfolio/blob/main/images/Astroshot.PNG)
+![AstroShot!](https://github.com/Eggz-csm/Portfolio/blob/main/images/Astroshot.PNG?raw=true)
 
 ##### Description -
   "Astroshot!" is a fun and unique space shooter; in which you play as a lost ship trying to make it through a vast asteroid feild! Clear as many asteroids as you can with the help of left-behind supplies you find along the way such as ammo, ship repair-kits (health-kits), and even turrets left behind by past deep-space explorers! Try your luck against three different sizes of asteroids which will appear more and more the further you go into the asteroid feild! Go for the high-score and hope you don't come across any asteroid too big in, "AstroShot!"
