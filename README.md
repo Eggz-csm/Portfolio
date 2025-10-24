@@ -5,12 +5,12 @@
 
 ### SpaceGame Project - 10/21/2025
 
-![SpaceGame](https://github.com/Eggz-csm/Portfolio/blob/main/images/spacegame.png?raw=true)
+![AstroShot!](https://github.com/Eggz-csm/Portfolio/blob/main/images/spacegame.png?raw=true)
 
 Description
 
 ##### Downloads
-* [Windows EXE](https://github.com/Eggz-csm/Portfolio/blob/main/src/SpaceGame/windows-amd64.zip)
+* [Windows EXE](https://github.com/Eggz-csm/Portfolio/blob/main/src/AstroShot/windows-amd64.zip)
 * [Mac App](https://github.com/Eggz-csm/Portfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
-* [Linux Executable](https://github.com/Eggz-csm/Portfolio/blob/main/src/SpaceGame/linux-amd64.zip)
-* [Source Code](https://github.com/Eggz-csm/Portfolio/tree/main/src/SpaceGame)
+* [Linux Executable](https://github.com/Eggz-csm/Portfolio/blob/main/src/AstroShot/linux-amd64.zip)
+* [Source Code]((https://github.com/Eggz-csm/Portfolio/tree/main/src/AstroShot))
