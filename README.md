@@ -13,4 +13,4 @@ Description
 * [Windows EXE](https://github.com/Eggz-csm/Portfolio/blob/main/src/AstroShot/windows-amd64.zip)
 * [Mac App](https://github.com/Eggz-csm/Portfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
 * [Linux Executable](https://github.com/Eggz-csm/Portfolio/blob/main/src/AstroShot/linux-amd64.zip)
-* [Source Code]((https://github.com/Eggz-csm/Portfolio/tree/main/src/AstroShot))
+* [Source Code](https://github.com/Eggz-csm/Portfolio/tree/main/src/AstroShot)
