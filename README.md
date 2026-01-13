@@ -29,9 +29,6 @@
 
 ## Downloads, Setup, And Executing
 
-
-* Windows EXE
-* Mac App
-* Source Code
+* [Source Code](https://github.com/Eggz-csm/LET_LOOSE/tree/main/src/LETLOOSE)
 
   To setup LET LOOSE so that it runs, and runs smoothly please download it, extract the file and run the EXE file. (Other setup not yet known)
