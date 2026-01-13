@@ -15,3 +15,20 @@
 * [Mac App](https://github.com/Eggz-csm/Portfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
 * [Linux Executable](https://github.com/Eggz-csm/Portfolio/blob/main/src/AstroShot/linux-amd64.zip)
 * [Source Code](https://github.com/Eggz-csm/Portfolio/tree/main/src/AstroShot)
+
+## Term 2 Projects
+
+### "LET LOOSE" - Group Project - 10/30/2025 -  In collaboration with Ewan Carver and Grace Perry
+
+![LetLooseCover](https://github.com/Eggz-csm/LET_LOOSE/blob/main/PreBuild_Images/letlooseTEMP.png?raw=true)
+
+##### Description -
+   Working a simple job in a classified center, one day you will see the alarms flash, you will hear the screams as they burst your ears, and then, a lifeless silence. At that moment you will know that it has been let loose, at that moment, you will be set free. "LET LOOSE" is a metroidvania-shooter with horror game aspects, and engaging environments inspired by games like "Deadcells" and "CARRION". The game will feature multiple guns, enemies, and levels all having their place in the games story. The game has a (Probably) linear story and will also have a small infinite mode (Probably). All lore, weapons, level, and other aspects are subject to change over the course of developement.
+
+## Downloads, Setup, And Executing
+
+* Windows EXE
+* Mac App
+* Source Code
+
+  To setup LET LOOSE so that it runs, and runs smoothly please download it, extract the file and run the EXE file. (Other setup not yet known)
