@@ -1,7 +1,9 @@
 # Gabriel Farley's Game Dev Portfolio 2026
 ##### My personal portfolio for Game Development or personal future projects!
 
-## Term 1 Projects
+### Current Projects - "[PHYS](https://angieliu4.github.io/PHYS/)" (Name is subject to change, a group project) - A personal project is currently in brainstorming
+
+## Term 1 Projects -
 
 ### "AstroShot!" - SpaceGame Project - 10/21/2025
 
@@ -16,7 +18,7 @@
 * [Linux Executable](https://github.com/Eggz-csm/Portfolio/blob/main/src/AstroShot/linux-amd64.zip)
 * [Source Code](https://github.com/Eggz-csm/Portfolio/tree/main/src/AstroShot)
 
-## Term 2 Projects
+## Term 2 Projects -
 
 ### "LET LOOSE" - Group Project - 10/30/2025 -  In collaboration with Ewan Carver and Grace Perry
 
